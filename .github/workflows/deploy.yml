@@ -1,0 +1,6 @@
+name: Build and Deploy Node app to Render
+
+on:
+  push:
+    branches:
+        -main  # Triggered on main branch push
